@@ -6,6 +6,23 @@ This script processes eye-tracking data (tobii pro studio files) to analyze pupi
 
 Processes gaze and pupil data from Tobii eye-tracking devices to extract visual attention features and visualize differences between participant groups (e.g., experts vs. non-experts).
 
+## Manuscript Information
+
+Title: Visual and Pupillary Behavior in Neonatal Pain Assessment using Eye-Tracking
+
+ID: 9742
+
+Authors:
+
+- Roberto Gonçalves de Magalhães Júnior ([ORCID](https://orcid.org/0000-0003-0911-8155))  
+- Rafael Nobre Orsi ([ORCID](https://orcid.org/0000-0003-4719-0131))  
+- Tatiany Marcondes Heiderich ([ORCID](https://orcid.org/0000-0003-2038-7719))  
+- Marina Carvalho de Moraes Barros ([ORCID](https://orcid.org/0000-0001-6989-3474))  
+- Ruth Guinsburg ([ORCID](https://orcid.org/0000-0003-1967-9861))  
+- Carlos Eduardo Thomaz ([ORCID](https://orcid.org/0000-0001-5566-1963))  
+
+Journal: IEEE Latin America Transactions
+    
 ## Key Features
 
 - Applies low-pass filtering to pupil data
