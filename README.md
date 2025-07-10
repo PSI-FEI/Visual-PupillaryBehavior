@@ -20,7 +20,7 @@ Processes gaze and pupil data from Tobii eye-tracking devices to extract visual 
 ## Project Structure
 
 | File                        |                                                         Description                                                         |
-|-----------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
+|-----------------------------|:----------------------------------------------------------------------------------------------------------------------------|
 | 1_processing_raw_data.ipynb | It extracts features such as fixation/saccade counts, pupil dilation, and explore-exploit ratios across two time intervals. |
 | 2_mapping.ipynb             | It performs visualization of gaze-based behavioral metrics on facial areas of interest.                                     |
 | 3_face.png                  | An image for the background of facial maps.                                                                                 |
