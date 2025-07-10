@@ -22,3 +22,9 @@ Processes gaze and pupil data from Tobii eye-tracking devices to extract visual 
 
 This script assumes that the raw `.tsv` files have already been processed and are stored in:
 > experiments/neonatal_pain_faces/db_processed/
+
+See  Step 1: Merge AOI columns in https://github.com/PSI-FEI/eye-tracking
+
+Use err_rpr.ipynb to process metrics and mapping.ipynb to get facial mapping results.
+
+
